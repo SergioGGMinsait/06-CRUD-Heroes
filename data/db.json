@@ -2,7 +2,7 @@
   "users": [
     {
       "id": 1,
-      "usuario": "John Doe",
+      "user": "John Doe",
       "email": "john.due@gmail.com"
     }
   ],
@@ -12,7 +12,7 @@
       "superhero": "Batman",
       "publisher": "DC Comics",
       "alter_ego": "Bruce Wayne",
-      "first_appearance": "Mi primer comic #2",
+      "first_appearance": "Detective Comics #27",
       "characters": "Bruce Wayne"
     },
     {
@@ -166,15 +166,6 @@
       "alter_ego": "Norrin Radd",
       "first_appearance": "The Fantastic Four #48",
       "characters": "Norrin Radd"
-    },
-    {
-      "id": "6xE_W34",
-      "superhero": "Sergio",
-      "publisher": "DC Comics",
-      "alter_ego": "Serch",
-      "first_appearance": "Minsait 2022",
-      "characters": "Sergio, Fernando, Carlos",
-      "alt_img": "https://i.pinimg.com/736x/26/1e/9e/261e9e461b7e09537fed22e4d04cc19c.jpg"
     }
   ]
 }
